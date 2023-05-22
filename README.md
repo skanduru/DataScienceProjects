@@ -1,4 +1,4 @@
-# Summarization of some of the Data Science projects in this provided repository completed as part of MIT (OCW) course
+## Summarization of some of the Data Science projects in this provided repository completed as part of MIT (OCW) course
 
 ## Case Study: PCA and t-SNE for Education and Air Pollution Analysis:
 
